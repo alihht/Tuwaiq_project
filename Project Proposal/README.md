@@ -28,3 +28,9 @@ It contsins the following attriputes information:
 | age | workclass | education_level | education-num | marital-status | occupation | relationship | race | sex | capital-gain | capital-loss | hours-per-week | native-country | income |
 | :---         |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |          ---: |
 | 39   | State-gov     | Bachelors    | 13   | Never-married    | Adm-clerical    | Not-in-family   | White     | Male    | 2174   | 0     | 40    | United-Statest status     | <=50K |
+
+# Tools
+The tools that are going to be used in the project are ```sklearn, matplotlib, pandas, and numpy```.
+
+# To Do
+Explore and clean the data, if needed; then, build a modle to train and test the data. 
