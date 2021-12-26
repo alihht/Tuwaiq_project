@@ -30,7 +30,10 @@ It contsins the following attriputes information:
 | 39   | State-gov     | Bachelors    | 13   | Never-married    | Adm-clerical    | Not-in-family   | White     | Male    | 2174   | 0     | 40    | United-Statest status     | <=50K |
 
 # Tools
-The tools that are going to be used in the project are ```sklearn, matplotlib, pandas, and numpy```.
+The tools that are going to be used in the project are ```sklearn, matplotlib, seaborn, pandas, and numpy```.
 
 # To Do
-Explore and clean the data, if needed; then, build a modle to train and test the data. 
+1. Explore the data.
+2. Clean the data.
+3. Visualize the data to answer some questions.
+4. Build a modle to train and test the data. 
