@@ -1,7 +1,7 @@
 # Project Proposal
 A Tuwaiq Data Science Bootcamp Project
 # Description
-According to the sources, this data was extracted by Barry Becker from 1994 Census database. It is ment to predict whether a person makes over 50K a year or less. 
+According to the sources, this data was extracted by Barry Becker from 1994 Census database. It was ment to predict whether a person makes over 50K a year or less. 
 # Dataset
 This dataset can be found in [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/adult).
 It contsins the following attriputes information:
@@ -30,7 +30,7 @@ It contsins the following attriputes information:
 | 39   | State-gov     | Bachelors    | 13   | Never-married    | Adm-clerical    | Not-in-family   | White     | Male    | 2174   | 0     | 40    | United-Statest status     | <=50K |
 
 # Tools
-The tools that are going to be used in the project are ```sklearn, matplotlib, seaborn, pandas, and numpy```.
+The tools that are going to be used in the project are ```sklearn, matplotlib, pandas, and numpy```.
 
 # To Do
 1. Explore the data.
